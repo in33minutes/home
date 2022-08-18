@@ -1,5 +1,5 @@
 ---
-name: Home
+title: Home
 ---
 
 ## Welcome to in33minutes
